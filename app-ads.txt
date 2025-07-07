@@ -1,0 +1,10 @@
+# app-ads.txt for Android Counter App
+# This file authorizes Google AdMob to sell ad inventory for this app
+# Host this file at: https://yourdomain.com/app-ads.txt
+
+# Google AdMob - Using your production publisher ID
+google.com, pub-1786698039793443, DIRECT, f08c47fec0942fa0
+
+# Additional authorized sellers can be added here
+# Format: domain, publisher_id, relationship, certification_authority_id
+# Relationship can be: DIRECT or RESELLER
